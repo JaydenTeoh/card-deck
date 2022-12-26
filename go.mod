@@ -1,4 +1,4 @@
-module github.com/JaydenTeoh/deck-of-cards
+module github.com/JaydenTeoh/card-deck
 
 go 1.19
 
